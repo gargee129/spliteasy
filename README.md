@@ -2,7 +2,7 @@
 
 A simple, mobile-friendly expense splitter for flatmates and friends. Add shared expenses, see who owes what, and settle up with the fewest possible payments.
 
-**Live demo:** https://YOUR-USERNAME.github.io/spliteasy/
+**Live demo:** https://gargee129.github.io/spliteasy/
 
 ## Features
 
